@@ -1,3 +1,3 @@
-# Web Scraper Bot
+# Hotel Booker App
 
-Some Python code to scrape data from the web
+OOP based project to simulate a hotel booking system. 
