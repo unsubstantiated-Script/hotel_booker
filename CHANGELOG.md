@@ -1,6 +1,8 @@
 Next Release
 -
-* Credit Card Feature
+
+v1.2.0
+* Credit Card Feature with verification and authentication
 
 v1.1.0
 * Initial Jazz off the ground. 
