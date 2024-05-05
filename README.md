@@ -11,3 +11,4 @@ OOP based project to simulate a hotel booking system.
 - User
 - Hotel
 - ReservationTicket
+- CreditCard
